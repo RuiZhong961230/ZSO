@@ -18,4 +18,4 @@ In this paper, we introduce the large language model (LLM) ChatGPT-3.5 to automa
 
 ## Datasets and Libraries
 
-CEC benchmarks are provided by the opfunu libraries. Engineering problems are provided by the enoppy library.
+CEC benchmarks are provided by the opfunu libraries and engineering problems are provided by the enoppy library.
