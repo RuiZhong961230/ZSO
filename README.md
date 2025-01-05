@@ -7,7 +7,7 @@ In this paper, we introduce the large language model (LLM) ChatGPT-3.5 to automa
 ## Citation  
 @article{Zhong:24,  
   title={Leveraging Large Language Model to Generate a Novel Metaheuristic Algorithm with CRISPE Framework},  
-  author={Zhong, Rui and Yuefeng, Xu and Chao, Zhang and Yu, Jun},  
+  author={Rui Zhong and Yuefeng Xu and Chao Zhang and Jun Yu},  
   journal={Cluster Computing},  
   pages={13835–13869},  
   year={2024},  
