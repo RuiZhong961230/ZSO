@@ -13,9 +13,11 @@ In this paper, we introduce the large language model (LLM) ChatGPT-3.5 to automa
   year={2024},  
   volume={27},  
   publisher={Springer},  
-  doi = {https://doi.org/10.1007/s10586-024-04654-6  },  
+  doi = {https://doi.org/10.1007/s10586-024-04654-6 },  
 }
 
 ## Datasets and Libraries
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively. 
 
-CEC benchmarks are provided by the opfunu libraries and engineering problems are provided by the enoppy library.
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
